@@ -6,3 +6,4 @@ version3.0:能够通过服务器访问本地(服务器)的文件,默认是D盘�
 version3.1:实现多线程bio监听端口
 version4.0:能够通过服务器访问Servlet程序
 version4.1:通过扫描包和注解的形式,实现了类似SpringMvc的机制
+version4.2:解决了hashmap中注册servlet不是单例的bug
