@@ -19,7 +19,7 @@ public abstract class AbstractServlet implements GenericServlet{
      *
      * @param request 请求
      * @param response 响应
-     * @author : 申劭明
+     * @author : myr
      * @date : 2019/9/18 10:13
     */
     @Override
@@ -36,7 +36,7 @@ public abstract class AbstractServlet implements GenericServlet{
      *
      * @param request 请求
      * @param response 响应
-     * @author : 申劭明
+     * @author : myr
      * @date : 2019/9/18 10:12
     */
     protected abstract void doGet(Request request, Response response);
@@ -46,7 +46,7 @@ public abstract class AbstractServlet implements GenericServlet{
      *
      * @param request 请求
      * @param response 响应
-     * @author : 申劭明
+     * @author : myr
      * @date : 2019/9/18 10:12
     */
     protected abstract void doPost(Request request, Response response);
